@@ -1,11 +1,13 @@
 # -SQL-Project_3_Productivity
 
-I	INTRODUCTION
+I INTRODUCTION
+
 I was asked to analyze the survey of the productivity of people from selected countries regarding the productivity of people in the range of Age (22-25, 30-33, 38-44, 55+). 
 I am interested in details about the productivity of people and which factors have influence on it to make them motivated in order to undertake their duties.
 So, if I find anything interesting then I do not hesitate to bring that in also. 
 
 II	ANALYSIS
+
 Respondents were obliged to answer a few questions in the productivity survey. 
 The analysis was based on these responses in percentage values.
 Next, an in-depth analysis was performed so as to show the percentage quantity of all people, who were involved in this survey.
@@ -13,6 +15,7 @@ SQL Window Functions, Aggregate Functions, SQL Server Advanced Functions, String
 The whole steps of my analysis were described in my project.
 
 III	MAIN CONCLUSIONS
+
 1.	Feeling productive was very important to overall respondents’ happiness for the majority of them from the selected range of Age
 2.	The majority of respondents felt currently moderately productive 
 3.	The majority of respondents were from United States of America. 
