@@ -14,7 +14,7 @@ Respondents were obliged to answer a few questions in the productivity survey.
 
 The analysis was based on these responses in percentage values.
 
-Next, an in-depth analysis was performed so as to show the percentage quantity of all people, who were involved in this survey.
+Next, an in-depth analysis was performed so as to show the percentage quantity of all people and their responses, who were involved in this survey.
 
 SQL Window Functions, Aggregate Functions, SQL Server Advanced Functions, String Functions and Variable were used to perform this analysis in Microsoft SQL Server.
 
