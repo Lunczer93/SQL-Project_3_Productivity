@@ -2,7 +2,7 @@
 
 I INTRODUCTION
 
-I was asked to analyze the survey of the productivity of people from selected countries regarding the productivity of people in the range of Age (22-25, 30-33, 38-44, 55+). 
+I was asked to analyze the survey of the productivity of people in the range of Age (22-25, 30-33, 38-44, 55+) from selected countries. 
 I am interested in details about the productivity of people and which factors have influence on it to make them motivated in order to undertake their duties.
 So, if I find anything interesting then I do not hesitate to bring that in also. 
 
